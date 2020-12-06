@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![badge](https://tryhackme-badges.s3.amazonaws.com/eloib.png)
+![badge](./images/eloib.png)
 
 
 - 🔭 I’m currently working on ...
