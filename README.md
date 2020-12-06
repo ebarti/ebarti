@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-<code><img src="https://tryhackme-badges.s3.amazonaws.com/eloib.png" alt="TryHackMe"></code>
-
+![badge](https://tryhackme-badges.s3.amazonaws.com/eloib.png)
 
 
 - 🔭 I’m currently working on ...
