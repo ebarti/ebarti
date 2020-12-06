@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/eloib.png" alt="TryHackMe">
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
