@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-{{<img src="https://tryhackme-badges.s3.amazonaws.com/eloib.png" alt="TryHackMe" style="max-width: 256px; display: inline" >}}
+{{< image src="https://tryhackme-badges.s3.amazonaws.com/eloib.png" alt="TryHackMe" style="max-width: 256px; display: inline" >}}
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
