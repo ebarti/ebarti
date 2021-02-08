@@ -7,11 +7,6 @@
 I am Eloi, a Software Engineer based in Europe!
 
 Currently learning:
-- Java & Objective C
-- Metal & GPU Acceleration
+- Objective C, Metal & GPU Acceleration
 
-
-Some of the stuff (ahem) on here does not quite work - yet.
- 
-![eloib's github stats](https://github-readme-stats.vercel.app/api?username=eloib&show_icons=true)
 
